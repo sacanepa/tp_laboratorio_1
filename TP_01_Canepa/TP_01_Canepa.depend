@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1459295487 source:c:\users\caron_000\documents\santi\utn\laboratorio i\trabajos practicos\tp_01_canepa\utn.c
+
+1459296079 source:c:\users\caron_000\documents\santi\utn\laboratorio i\trabajos practicos\tp_01_canepa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1459296232 source:e:\utn\2016\prog-lab i\trabajos prácticos\utn.c
+
+1460081798 source:c:\users\caron_000\documents\santi\utn\laboratorio i\trabajos prácticos\utn.c
+
+1459904238 source:f:\utn\2016\prog-lab i\trabajos prácticos\utn.c
+
+1459904606 source:f:\utn\2016\prog-lab i\trabajos prácticos\tp_01_canepa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../utn.h"
+
+1459904278 f:\utn\2016\prog-lab i\trabajos prácticos\utn.h
+
+1460081083 source:c:\users\caron_000\documents\santi\utn\laboratorio i\trabajos prácticos\tp_01_canepa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../utn.h"
+
+1460081143 c:\users\caron_000\documents\santi\utn\laboratorio i\trabajos prácticos\utn.h
+
