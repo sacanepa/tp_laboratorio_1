@@ -6,7 +6,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     int answer;//corresponde a la opción del menú seleccionada por el usuario
+=======
+    int answer;//corresponde a la opción del menú seleccionada por el usuario.
+>>>>>>> a7dd19aa634f5906b373a41e7d10e6ed000a9925
     float number1=0,number2=0;//corresponde a las dos variables donde se guardan los operandos (A y B) ingresados por el usuario
     int flag1=0,flag2=0; //variables utilizadas para chequear si es la primera operacion
     int i=0; //variable para contar intentos
