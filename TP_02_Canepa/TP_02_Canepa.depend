@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1461636774 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_02_canepa\arraysutn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arraysUTN.h"
+	"getUTN.h"
+
+1461510822 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_02_canepa\getutn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1461633168 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_02_canepa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuUTN.h"
+	"getUTN.h"
+	"arraysUTN.h"
+
+1461422358 e:\utn\2016\prog-lab i\trabajos prácticos\tp_02_canepa\menuutn.h
+
+1461447638 e:\utn\2016\prog-lab i\trabajos prácticos\tp_02_canepa\getutn.h
+
+1461513732 e:\utn\2016\prog-lab i\trabajos prácticos\tp_02_canepa\arraysutn.h
+
+1461422358 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_02_canepa\menuutn.c
+
+1461806307 source:c:\users\caron_000\desktop\trabajos prácticos\tp_02_canepa\arraysutn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arraysUTN.h"
+	"getUTN.h"
+
+1461806307 c:\users\caron_000\desktop\trabajos prácticos\tp_02_canepa\arraysutn.h
+
+1461447638 c:\users\caron_000\desktop\trabajos prácticos\tp_02_canepa\getutn.h
+
+1461510822 source:c:\users\caron_000\desktop\trabajos prácticos\tp_02_canepa\getutn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1461806257 source:c:\users\caron_000\desktop\trabajos prácticos\tp_02_canepa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menuUTN.h"
+	"getUTN.h"
+	"arraysUTN.h"
+
+1461422358 c:\users\caron_000\desktop\trabajos prácticos\tp_02_canepa\menuutn.h
+
+1461422358 source:c:\users\caron_000\desktop\trabajos prácticos\tp_02_canepa\menuutn.c
+
