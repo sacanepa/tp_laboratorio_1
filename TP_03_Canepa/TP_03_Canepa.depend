@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1464304284 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\funcionestp3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcionesTP3.h"
+	"getUTN.h"
+
+1464304284 e:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\funcionestp3.h
+
+1464306192 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesTP3.h"
+
+1463860000 e:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\getutn.h
+
+1463860160 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\getutn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"getUTN.h"
+
+1464136184 source:f:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\funcionestp3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcionesTP3.h"
+	"getUTN.h"
+
+1464133506 f:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\funcionestp3.h
+
+1463860000 f:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\getutn.h
+
+1463860160 source:f:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\getutn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"getUTN.h"
+
+1464136674 source:f:\utn\2016\prog-lab i\trabajos prácticos\tp_03_canepa\tp_03_canepa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesTP3.h"
+
