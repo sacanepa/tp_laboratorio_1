@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1466474476 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_04_canepa\canepa 2 parcial\canepa_tp_04\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1466446694 e:\utn\2016\prog-lab i\trabajos prácticos\tp_04_canepa\canepa 2 parcial\canepa_tp_04\arraylist.h
+
+1466558976 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_04_canepa\canepa 2 parcial\canepa_tp_04\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"ArrayList.h"
+	"getUTN.h"
+
+1466469686 e:\utn\2016\prog-lab i\trabajos prácticos\tp_04_canepa\canepa 2 parcial\canepa_tp_04\employee.h
+	"ArrayList.h"
+
+1465958796 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_04_canepa\canepa 2 parcial\canepa_tp_04\getutn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"getUTN.h"
+
+1465943736 e:\utn\2016\prog-lab i\trabajos prácticos\tp_04_canepa\canepa 2 parcial\canepa_tp_04\getutn.h
+
+1466558224 source:e:\utn\2016\prog-lab i\trabajos prácticos\tp_04_canepa\canepa 2 parcial\canepa_tp_04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getUTN.h"
+	"ArrayList.h"
+	"Employee.h"
+

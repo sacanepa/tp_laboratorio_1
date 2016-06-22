@@ -1,0 +1,11 @@
+33988631,Santiago,Canepa,1400.56,4
+34523123,Rodrigo,Perez,2345.55,3
+34523016,Maria,Gomez,2347.67,2
+34520314,Mario,Rodriguez,2945.00,2
+34520115,Pedro,Hidalgo,3335.00,2
+34520017,Rodrigo,Juanes,4345.00,3
+34522016,Laura,Portillo,1045.00,1
+34521019,Mariano,Terry,7845.00,2
+34520030,Juan,Linares,6745.00,4
+34523412,Juana,Gutierrez,8755.00,1
+34876412,Alfredo,Perez,8421.56,4
